@@ -76,7 +76,7 @@ Contents:
    tutorials/index
    auto_mayavi_examples/index
    changes
-   Fork sphinx-gallery on Github <https://github.com/sphinx-gallery/sphinx-gallery>
+   Fork sphinx-gallery on Github <https://github.com/ipereto/manual/docs/abc.html>
 
 
 Indices and tables
